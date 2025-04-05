@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STOCK.API", "STOCK.API\STOC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAYMENT.API", "PAYMENT.API\PAYMENT.API.csproj", "{8D428110-1F66-44A8-9FD6-A595AD57E3FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coordinator", "Coordinator\Coordinator.csproj", "{985A6CE8-DC7A-4DBC-8248-A08FF53E49A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8D428110-1F66-44A8-9FD6-A595AD57E3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D428110-1F66-44A8-9FD6-A595AD57E3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D428110-1F66-44A8-9FD6-A595AD57E3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985A6CE8-DC7A-4DBC-8248-A08FF53E49A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985A6CE8-DC7A-4DBC-8248-A08FF53E49A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985A6CE8-DC7A-4DBC-8248-A08FF53E49A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985A6CE8-DC7A-4DBC-8248-A08FF53E49A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
